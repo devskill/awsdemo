@@ -1,0 +1,11 @@
+C:\Users\Jalal\Source\Repos\AWS\bin\Debug\netcoreapp2.2\AWS.deps.json
+C:\Users\Jalal\Source\Repos\AWS\bin\Debug\netcoreapp2.2\AWS.runtimeconfig.json
+C:\Users\Jalal\Source\Repos\AWS\bin\Debug\netcoreapp2.2\AWS.runtimeconfig.dev.json
+C:\Users\Jalal\Source\Repos\AWS\bin\Debug\netcoreapp2.2\AWS.dll
+C:\Users\Jalal\Source\Repos\AWS\obj\Debug\netcoreapp2.2\AWS.csprojAssemblyReference.cache
+C:\Users\Jalal\Source\Repos\AWS\obj\Debug\netcoreapp2.2\AWS.csproj.CoreCompileInputs.cache
+C:\Users\Jalal\Source\Repos\AWS\obj\Debug\netcoreapp2.2\AWS.AssemblyInfoInputs.cache
+C:\Users\Jalal\Source\Repos\AWS\obj\Debug\netcoreapp2.2\AWS.AssemblyInfo.cs
+C:\Users\Jalal\Source\Repos\AWS\bin\Debug\netcoreapp2.2\AWS.pdb
+C:\Users\Jalal\Source\Repos\AWS\obj\Debug\netcoreapp2.2\AWS.dll
+C:\Users\Jalal\Source\Repos\AWS\obj\Debug\netcoreapp2.2\AWS.pdb
